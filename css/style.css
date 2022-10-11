@@ -1,0 +1,11 @@
+body{
+    background: rgb(139, 197, 251);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+.vis{
+    background-color: rgb(173, 212, 247);
+    width: 80%;
+}
